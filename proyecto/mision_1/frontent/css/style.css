@@ -8,7 +8,7 @@
 }
 
 header{
-    background-color: aquamarine;
+    background-color: rgb(255, 0, 0);
     color: white;
     padding: 20xp;
     text-align: center;
@@ -30,13 +30,38 @@ nav ul li{
     font-weight: bold;
 }
 h1 {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 h2 {
-    color: green;
+    color: rgb(0, 0, 0);
 }
 
 h3 {
     color: orange;
+}
+
+/* estilos footer */
+
+footer{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+
+}
+
+.contenido{
+    padding: 40px;
+    text-align: center;
+}
+
+.formulario{
+    max-width: 500px;
+    margin: 30px auto;
+    background-color: #026ffd55;
+    padding: 20px;
+    border-radius: 8px;
 }
