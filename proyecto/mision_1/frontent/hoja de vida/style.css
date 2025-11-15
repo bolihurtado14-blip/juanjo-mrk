@@ -1,9 +1,18 @@
 
 
 .bg-primary{
-    background-color: #2c3350 !important;
+    background-color: #772121 !important;
 }
 
-img{
+/* img{
     max-width: 90%;
+} */
+
+.progress{
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+}
+
+.text-primary{
+    color: #c71313 !important;
 }
